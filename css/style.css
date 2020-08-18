@@ -1371,14 +1371,14 @@ p {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_about.scss */
 .about_area {
-  padding: 50px 0 50px 0;
+  padding: 30px 0 50px 0;
 }
 
 @media (max-width: 767px) {
   /* line 1, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_about.scss */
-  .about_area {
+  /* .about_area {
     padding: 100px 0;
-  }
+  } */
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -6755,7 +6755,7 @@ h6 {
   border-radius: 5px;
 }
 .background-m-1 {
-  background-color: rgba(255, 255, 255, 0.89);
+  background-color: rgba(255, 255, 255, 0.651);
   padding: 10px 30px;
   border-radius: 5px;
 }
